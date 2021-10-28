@@ -2,6 +2,7 @@
     "name": "crazyawesomedarktheme",
     "displayName": "crazyAwesomeDarkTheme",
     "description": "Best dark theme for vs code",
+    "publisher": "yogeshhrathod",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.61.0"
