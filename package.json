@@ -1,0 +1,21 @@
+{
+    "name": "crazyawesomedarktheme",
+    "displayName": "crazyAwesomeDarkTheme",
+    "description": "Best dark theme for vs code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Crazy Awesome Dark ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Crazy Awesome Dark -color-theme.json"
+            }
+        ]
+    }
+}
